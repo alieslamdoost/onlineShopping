@@ -1,0 +1,11 @@
+.banner {
+    max-width: 100%;
+    height: auto;
+    postion: relative
+}
+
+.text {
+    position: absolute;
+    font-size: 70px;
+    font-weight: bold;
+}

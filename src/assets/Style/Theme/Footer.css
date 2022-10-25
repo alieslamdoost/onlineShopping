@@ -1,0 +1,21 @@
+.footerSelection {
+    padding: 8px 0;
+    cursor: pointer;
+}
+
+.footerSelection:hover {
+    color: #ffc107;
+    transform: translateX(-5px);
+
+}
+
+.footerIcon {
+    color: black;
+    padding: 0 6px;
+    cursor: pointer;
+}
+
+.footerIcon:hover {
+    color: #ffc107;
+    transform: rotateY(180deg)
+}

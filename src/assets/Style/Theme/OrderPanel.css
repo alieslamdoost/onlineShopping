@@ -1,0 +1,28 @@
+.paginationBttns {
+    width: 80%;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.paginationBttns a {
+    padding: 10px;
+    margin: 8px;
+    border-radius: 5px;
+    border: 1px solid #FFBD20;
+   
+    cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  
+    background-color: #FFBD20
+
+}
+
+.paginationActive a {
+    color: #FFBD20;
+
+}

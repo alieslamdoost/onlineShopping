@@ -1,0 +1,29 @@
+import { IconName } from "react-icons/bs";
+
+cart : BsCart3
+heart : BsHeart
+serarch: BsSearch
+person: BsPerson
+eye: BsEye
+plus: BsPlusLg
+pluscart: BsCartPlus
+
+
+facebook: BsFacebook
+instagram: BsInstagram
+telegram: BsTelegram
+twitter: BsTwitter
+
+
+House: BsHouseDoor
+pocket: BsEnvelope
+tablet: BsTablet
+
+fullscreen: BsArrowsFullscreen
+
+
+repeat: BsArrowRepeat
+lock: BsLock
+box: BsBoxSeam
+
+exit: BsBoxArrowInLeft

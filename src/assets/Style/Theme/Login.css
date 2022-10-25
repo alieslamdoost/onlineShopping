@@ -1,0 +1,34 @@
+.loginsignin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    margin: 124px 0;
+    width: 420px;
+    height: 720px;
+    background-color: #f8f8f8;
+    color: #363636;
+    border-radius: 12px;
+    border: 1px solid #dadada
+}
+
+.logincreate {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    margin: 124px 0;
+    width: 420px;
+    height: 720px;
+    background-color: #f8f8f8;
+    color: #363636;
+    border-radius: 12px;
+    border: 1px solid #dadada
+}
+
+.modal {
+    background-color: #f8f8f8;
+    color: #363636;
+    border-radius: 12px;
+    border: 1px solid #dadada
+}

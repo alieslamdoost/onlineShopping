@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Roosta";
+  src: url(assets/Style/Fonts/ZahraRoostaRegular.ttf);
+}
+
+
+body {
+  margin: 0;
+  font-family: "Roosta"
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+

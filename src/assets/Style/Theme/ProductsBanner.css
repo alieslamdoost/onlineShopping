@@ -1,0 +1,18 @@
+.effect:hover {
+    opacity: 0.75
+}
+
+.scaleHover:hover {
+    animation-name: hover;
+    animation-duration: 1s
+}
+
+@keyframes hover {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
